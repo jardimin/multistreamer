@@ -1,6 +1,6 @@
 return {
   _description = 'Deutsch',
-  app_name = 'Multistreamer',
+  app_name = 'Jardim Multistreamer',
   username = 'Nutzername',
   password = 'Passwort',
   change_pass = 'Change Password',
