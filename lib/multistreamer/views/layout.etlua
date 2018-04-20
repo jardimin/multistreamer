@@ -4,6 +4,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title><%= config.app_name or config.lang.app_name %></title>
+  <meta name="google-site-verification" content="qmSvmzhGKCkLH12xnCFzGznzyOFBoi6DwjSIemjCqIQ" />
   <link rel="stylesheet" href="<%= url_for("site-root") %>static/css/pure-min.css">
   <link rel="stylesheet" href="<%= url_for("site-root") %>static/css/multistreamer.css">
   <% if (user and user:get_pref('night_mode') and params.night_mode ~= 'false') or (params.night_mode == 'true') then %>
