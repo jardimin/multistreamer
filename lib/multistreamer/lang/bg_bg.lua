@@ -3,6 +3,7 @@ return {
   app_name = 'Мултистриймър',
   username = 'Потребител',
   password = 'Парола',
+  change_pass = 'Change Password',
   token = 'Ключ за достъп',
   login = 'Влизане',
   none = 'None',

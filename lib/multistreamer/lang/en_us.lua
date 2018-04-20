@@ -3,6 +3,7 @@ return {
   app_name = 'Multistreamer',
   username = 'Username',
   password = 'Password',
+  change_pass = 'Change Password',
   token = 'Access Token',
   login = 'Log In',
   none = 'None',

@@ -46,4 +46,6 @@ end)
 </div>
 </form>
 
+<a href="/users/user/<%= user.username %>"><%= config.lang.change_pass %></a>
+
 
